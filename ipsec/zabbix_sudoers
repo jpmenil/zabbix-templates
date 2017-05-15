@@ -1,0 +1,2 @@
+Defaults:zabbix !requiretty
+zabbix ALL = (root) NOPASSWD: /usr/local/bin/zabbix-ipsec.py,/usr/local/bin/check_ipsec.sh
