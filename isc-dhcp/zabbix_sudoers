@@ -1,0 +1,2 @@
+Defaults:zabbix !requiretty
+zabbix ALL = (root) NOPASSWD: /usr/local/bin/zabbix-docker.py
