@@ -502,7 +502,7 @@
                     <snmp_community/>
                     <multiplier>0</multiplier>
                     <snmp_oid/>
-                    <key>db.odbc.select[wsrep_flow_control_paused{$DSN}]</key>
+                    <key>db.odbc.select[wsrep_flow_control_paused,{$DSN}]</key>
                     <delay>300</delay>
                     <history>7</history>
                     <trends>365</trends>
