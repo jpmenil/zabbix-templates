@@ -163,7 +163,7 @@
                     <history>7</history>
                     <trends>365</trends>
                     <status>0</status>
-                    <value_type>3</value_type>
+                    <value_type>0</value_type>
                     <allowed_hosts/>
                     <units/>
                     <delta>0</delta>
@@ -206,7 +206,7 @@
                     <history>7</history>
                     <trends>365</trends>
                     <status>0</status>
-                    <value_type>3</value_type>
+                    <value_type>0/value_type>
                     <allowed_hosts/>
                     <units/>
                     <delta>0</delta>
@@ -378,7 +378,7 @@
                     <history>7</history>
                     <trends>365</trends>
                     <status>0</status>
-                    <value_type>3</value_type>
+                    <value_type>0</value_type>
                     <allowed_hosts/>
                     <units/>
                     <delta>0</delta>
@@ -894,7 +894,7 @@
                     <history>90</history>
                     <trends>365</trends>
                     <status>0</status>
-                    <value_type>3</value_type>
+                    <value_type>0</value_type>
                     <allowed_hosts/>
                     <units/>
                     <delta>0</delta>
