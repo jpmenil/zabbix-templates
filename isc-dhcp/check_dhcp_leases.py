@@ -62,7 +62,8 @@ def checkRange(ipsList):
             'reset': 0,
             'backup': 0,
             'reserved': 0,
-            'bootp': 0
+            'bootp': 0,
+            'released': 0
             }
 
     o = pypureomapi.Omapi(dhcp_server_ip, port, KEYNAME, BASE64_ENCODED_KEY)
